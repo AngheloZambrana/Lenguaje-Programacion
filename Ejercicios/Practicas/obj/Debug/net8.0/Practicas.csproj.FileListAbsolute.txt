@@ -1,0 +1,15 @@
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/bin/Debug/net8.0/Practicas
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/bin/Debug/net8.0/Practicas.deps.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/bin/Debug/net8.0/Practicas.runtimeconfig.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/bin/Debug/net8.0/Practicas.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/bin/Debug/net8.0/Practicas.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/obj/Debug/net8.0/Practicas.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/obj/Debug/net8.0/Practicas.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/obj/Debug/net8.0/Practicas.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/obj/Debug/net8.0/Practicas.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/obj/Debug/net8.0/Practicas.sourcelink.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/obj/Debug/net8.0/Practicas.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/obj/Debug/net8.0/refint/Practicas.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/obj/Debug/net8.0/Practicas.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/obj/Debug/net8.0/Practicas.genruntimeconfig.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Ejercicios/Practicas/obj/Debug/net8.0/ref/Practicas.dll
