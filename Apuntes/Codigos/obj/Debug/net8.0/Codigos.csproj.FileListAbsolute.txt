@@ -1,0 +1,15 @@
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/obj/Debug/net8.0/Codigos.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/obj/Debug/net8.0/Codigos.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/obj/Debug/net8.0/Codigos.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/obj/Debug/net8.0/Codigos.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/obj/Debug/net8.0/Codigos.sourcelink.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/bin/Debug/net8.0/Codigos
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/bin/Debug/net8.0/Codigos.deps.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/bin/Debug/net8.0/Codigos.runtimeconfig.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/bin/Debug/net8.0/Codigos.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/bin/Debug/net8.0/Codigos.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/obj/Debug/net8.0/Codigos.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/obj/Debug/net8.0/refint/Codigos.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/obj/Debug/net8.0/Codigos.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/obj/Debug/net8.0/Codigos.genruntimeconfig.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Apuntes/Codigos/obj/Debug/net8.0/ref/Codigos.dll

@@ -1,0 +1,15 @@
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/bin/Debug/net8.0/Ejemplo
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/bin/Debug/net8.0/Ejemplo.deps.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/bin/Debug/net8.0/Ejemplo.runtimeconfig.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/bin/Debug/net8.0/Ejemplo.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/bin/Debug/net8.0/Ejemplo.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/obj/Debug/net8.0/Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/obj/Debug/net8.0/Ejemplo.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/obj/Debug/net8.0/Ejemplo.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/obj/Debug/net8.0/Ejemplo.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/obj/Debug/net8.0/Ejemplo.sourcelink.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/obj/Debug/net8.0/Ejemplo.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/obj/Debug/net8.0/refint/Ejemplo.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/obj/Debug/net8.0/Ejemplo.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/obj/Debug/net8.0/Ejemplo.genruntimeconfig.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/NumerosComplejos/obj/Debug/net8.0/ref/Ejemplo.dll

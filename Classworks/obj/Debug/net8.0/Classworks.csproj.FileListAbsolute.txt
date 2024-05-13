@@ -1,0 +1,15 @@
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/bin/Debug/net8.0/Classworks
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/bin/Debug/net8.0/Classworks.deps.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/bin/Debug/net8.0/Classworks.runtimeconfig.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/bin/Debug/net8.0/Classworks.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/bin/Debug/net8.0/Classworks.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/obj/Debug/net8.0/Classworks.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/obj/Debug/net8.0/Classworks.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/obj/Debug/net8.0/Classworks.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/obj/Debug/net8.0/Classworks.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/obj/Debug/net8.0/Classworks.sourcelink.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/obj/Debug/net8.0/Classworks.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/obj/Debug/net8.0/refint/Classworks.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/obj/Debug/net8.0/Classworks.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/obj/Debug/net8.0/Classworks.genruntimeconfig.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Classworks/obj/Debug/net8.0/ref/Classworks.dll

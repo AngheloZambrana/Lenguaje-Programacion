@@ -1,3 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 
-Console.WriteLine("Hello, World!");
+namespace PrimeraAplicacion
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            float floatValue = 3.14f;
+            int intValue = BitConverter.SingleToInt32Bits(floatValue);
+            Console.WriteLine("Binary representation of {0}: {1}", floatValue, Convert.ToString(intValue, 2));
+        }
+    }
+}

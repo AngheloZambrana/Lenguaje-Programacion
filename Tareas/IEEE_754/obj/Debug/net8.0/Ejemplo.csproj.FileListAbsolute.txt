@@ -1,0 +1,5 @@
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/obj/Debug/net8.0/Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/obj/Debug/net8.0/Ejemplo.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/obj/Debug/net8.0/Ejemplo.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/obj/Debug/net8.0/Ejemplo.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/Tareas/IEEE_754/obj/Debug/net8.0/Ejemplo.sourcelink.json
