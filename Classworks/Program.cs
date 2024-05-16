@@ -22,7 +22,21 @@ namespace PrimeraAplicacion
             Console.WriteLine(product == 10);
             Multiply(out product, 2, -5);
             Console.WriteLine(product == -10);
-    }
+
+            Tuple<int, int> tuple = new Tuple<int, int>(0, 0);
+            Divition(ref tuple, 10, -3);
+            Console.WriteLine(tuple.Item1 == -3);
+            Console.WriteLine(tuple.Item2 == 1);
+            Divition(ref tuple, -10, 3);
+            Console.WriteLine(tuple.Item1 == -3);
+            Console.WriteLine(tuple.Item2 == -1);
+            Divition(ref tuple, -10, -3);
+            Console.WriteLine(tuple.Item1 == 3);
+            Console.WriteLine(tuple.Item2 == -1);
+            Divition(ref tuple, 10, 3);
+            Console.WriteLine(tuple.Item1 == 3);
+            Console.WriteLine(tuple.Item2 == 1);
+        }
 
         static void MostrarFizzBuzz()
         {
@@ -57,15 +71,17 @@ namespace PrimeraAplicacion
             }
             return suma;
         }
+
         static int Substraction(params int[] numeros)
         {
             int resultado = numeros[0];
             for (int i = 1; i < numeros.Length; i = Suma(i, 1)) 
             {
-                resultado -= numeros[i];
+                resultado = Suma(resultado, -numeros[i]);
             }
             return resultado;
         }
+
         static void Multiply(out int product, int factorX, int factorY)
         {
             product = 0;
@@ -94,5 +110,25 @@ namespace PrimeraAplicacion
             }
         }
 
+        static void Divition(ref Tuple<int, int> n, int a, int b)
+        {
+            int cociente = 0;
+            int positivoA = a < 0 ? Suma(~a, 1) : a;
+            int positivoB = b < 0 ? Suma(~b, 1) : b;
+
+            while (positivoA >= positivoB)
+            {
+                positivoA = Suma(positivoA, ~positivoB, 1);
+                cociente = Suma(cociente, 1);
+            }
+
+            int residuo = a < 0 ? Suma(~positivoA, 1) : positivoA;
+            if (a < 0 != b < 0)
+            {
+                cociente = Suma(~cociente, 1);
+            }
+
+            n = new Tuple<int, int>(cociente, residuo);
+        }
     }
 }
