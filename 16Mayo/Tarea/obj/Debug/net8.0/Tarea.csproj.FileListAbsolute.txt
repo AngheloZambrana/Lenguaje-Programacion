@@ -1,0 +1,15 @@
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/obj/Debug/net8.0/Tarea.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/obj/Debug/net8.0/Tarea.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/obj/Debug/net8.0/Tarea.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/obj/Debug/net8.0/Tarea.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/obj/Debug/net8.0/Tarea.sourcelink.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/bin/Debug/net8.0/Tarea
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/bin/Debug/net8.0/Tarea.deps.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/bin/Debug/net8.0/Tarea.runtimeconfig.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/bin/Debug/net8.0/Tarea.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/bin/Debug/net8.0/Tarea.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/obj/Debug/net8.0/Tarea.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/obj/Debug/net8.0/refint/Tarea.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/obj/Debug/net8.0/Tarea.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/obj/Debug/net8.0/Tarea.genruntimeconfig.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/16Mayo/Tarea/obj/Debug/net8.0/ref/Tarea.dll
