@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace PrimeraAplicacion
 {
@@ -70,7 +71,7 @@ namespace PrimeraAplicacion
         public uint initialSpin;
         public Engine(byte height, uint initialSpin)
         {
-            this.spinLimit = (uint)(height + 1);
+            this.spinLimit = (uint)(height);
             this.initialSpin = initialSpin;
             this.currentSpin = initialSpin;
         }
@@ -79,6 +80,7 @@ namespace PrimeraAplicacion
             if (currentSpin < spinLimit)
             {
                 currentSpin++;
+                ApplyDelay();
             }
         }
         public void SpinDown()
@@ -86,7 +88,12 @@ namespace PrimeraAplicacion
             if (currentSpin > 0)
             {
                 currentSpin--;
+                ApplyDelay();
             }
+        }
+        private void ApplyDelay()
+        {
+            Thread.Sleep(1000);  
         }
         public bool IsInitial()
         {
@@ -114,6 +121,7 @@ namespace PrimeraAplicacion
             while (engine.currentSpin < engine.spinLimit)
             {
                 engine.SpinUp();
+                Console.Clear();
                 Console.WriteLine("Vuelta " + engine.currentSpin);
                 string[] ecranDisplay = ecran.GetEcran();
                 for (int i = 0; i < engine.currentSpin && i < ecranDisplay.Length; i++)
@@ -129,6 +137,7 @@ namespace PrimeraAplicacion
             while (engine.currentSpin > engine.initialSpin)
             {
                 engine.SpinDown();
+                Console.Clear();
                 Console.WriteLine("De vuelta " + engine.currentSpin);
                 string[] ecranDisplay = ecran.GetEcran();
                 for (int i = 0; i < engine.currentSpin && i < ecranDisplay.Length; i++)
