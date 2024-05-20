@@ -1,0 +1,15 @@
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/bin/Debug/net8.0/20Mayo
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/bin/Debug/net8.0/20Mayo.deps.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/bin/Debug/net8.0/20Mayo.runtimeconfig.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/bin/Debug/net8.0/20Mayo.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/bin/Debug/net8.0/20Mayo.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/obj/Debug/net8.0/20Mayo.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/obj/Debug/net8.0/20Mayo.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/obj/Debug/net8.0/20Mayo.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/obj/Debug/net8.0/20Mayo.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/obj/Debug/net8.0/20Mayo.sourcelink.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/obj/Debug/net8.0/20Mayo.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/obj/Debug/net8.0/refint/20Mayo.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/obj/Debug/net8.0/20Mayo.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/obj/Debug/net8.0/20Mayo.genruntimeconfig.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/20Mayo/obj/Debug/net8.0/ref/20Mayo.dll
