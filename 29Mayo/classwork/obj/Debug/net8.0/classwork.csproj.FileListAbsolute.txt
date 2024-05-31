@@ -1,0 +1,5 @@
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/29Mayo/classwork/obj/Debug/net8.0/classwork.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/29Mayo/classwork/obj/Debug/net8.0/classwork.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/29Mayo/classwork/obj/Debug/net8.0/classwork.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/29Mayo/classwork/obj/Debug/net8.0/classwork.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/29Mayo/classwork/obj/Debug/net8.0/classwork.sourcelink.json
