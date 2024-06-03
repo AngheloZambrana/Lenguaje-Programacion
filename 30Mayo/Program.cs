@@ -11,7 +11,7 @@ namespace FunctionalTamagochi
         public delegate void Tick();
 
         public static (Getter<int> getLife, Setter<int> setLife, Getter<string> getLastAction, Setter<string> setLastAction) Tamagochi(int initialLife)
-        {
+        {   
             int life = initialLife;
             string lastAction = string.Empty;
 

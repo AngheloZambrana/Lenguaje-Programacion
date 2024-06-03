@@ -1,0 +1,15 @@
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/bin/Debug/net8.0/3Junion
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/bin/Debug/net8.0/3Junion.deps.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/bin/Debug/net8.0/3Junion.runtimeconfig.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/bin/Debug/net8.0/3Junion.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/bin/Debug/net8.0/3Junion.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/obj/Debug/net8.0/3Junion.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/obj/Debug/net8.0/3Junion.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/obj/Debug/net8.0/3Junion.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/obj/Debug/net8.0/3Junion.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/obj/Debug/net8.0/3Junion.sourcelink.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/obj/Debug/net8.0/3Junion.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/obj/Debug/net8.0/refint/3Junion.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/obj/Debug/net8.0/3Junion.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/obj/Debug/net8.0/3Junion.genruntimeconfig.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/3Junion/obj/Debug/net8.0/ref/3Junion.dll
