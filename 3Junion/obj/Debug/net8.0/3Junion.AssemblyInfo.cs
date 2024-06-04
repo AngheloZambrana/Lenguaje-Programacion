@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3Junion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f92a8a02efd15a8aac0dc36a6d75f848206fe1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+639983d2c4cb780aedea197f7bee7f9d1f21e488")]
 [assembly: System.Reflection.AssemblyProductAttribute("3Junion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3Junion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

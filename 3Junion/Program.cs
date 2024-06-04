@@ -8,6 +8,7 @@ namespace PrimeraAplicacion
     {
         static void Main(string[] args)
         {
+            //Le mostre en clases
             List<int> integers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
             integers.Add(12);
             integers.Add(14);
