@@ -1,0 +1,15 @@
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/bin/Debug/net8.0/11JunioProblema
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/bin/Debug/net8.0/11JunioProblema.deps.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/bin/Debug/net8.0/11JunioProblema.runtimeconfig.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/bin/Debug/net8.0/11JunioProblema.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/bin/Debug/net8.0/11JunioProblema.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/obj/Debug/net8.0/11JunioProblema.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/obj/Debug/net8.0/11JunioProblema.AssemblyInfoInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/obj/Debug/net8.0/11JunioProblema.AssemblyInfo.cs
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/obj/Debug/net8.0/11JunioProblema.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/obj/Debug/net8.0/11JunioProblema.sourcelink.json
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/obj/Debug/net8.0/11JunioProblema.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/obj/Debug/net8.0/refint/11JunioProblema.dll
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/obj/Debug/net8.0/11JunioProblema.pdb
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/obj/Debug/net8.0/11JunioProblema.genruntimeconfig.cache
+/home/fundacion/Documents/LenguajesProgramacion/RepoOficial/Lenguaje-Programacion/11JunioProblema/obj/Debug/net8.0/ref/11JunioProblema.dll
